@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/dsmeta/src/main/java/com/alvaroitu/dsmeta/DsmetaApplication.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="TWILIO_KEY" value="d56fa6c5bcd2aed8c69524c2cc50104b"/>
+        <mapEntry key="TWILIO_PHONE_FROM" value="+19804145625"/>
+        <mapEntry key="TWILIO_PHONE_TO" value="+5511974076917"/>
+        <mapEntry key="TWILIO_SID" value="AC7ecfe1478f5926ea3bb23d877e18dbdd"/>
+    </mapAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.alvaroitu.dsmeta.DsmetaApplication"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="dsmeta"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="dsmeta"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+</launchConfiguration>
